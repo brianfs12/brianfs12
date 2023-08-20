@@ -38,16 +38,22 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianfs12&show_icons=true&locale=en&layout=compact" alt="brianfs12" /></p>
 
 <!-- Trofeos -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianfs12" alt="brianfs12" /></a> </p>
-
-<!-- Logros -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianfs12&show_icons=true&locale=en" alt="brianfs12" /></p>
+<!--
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img       src="https://github-profile-trophy.vercel.app/?username=brianfs12" alt="brianfs12" /></a>   </p>
+-->
 
 <!-- GH Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianfs12&" alt="brianfs12" /></p>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianfs12&show_icons=true&locale=en" alt="brianfs12" /></p>
+-->
 
 <!-- Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianfs12&" alt="brianfs12" /></p>
+
+<!-- PF View -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianfs12&label=Profile%20views&color=0e75b6&style=flat" alt="brianfs12" /> </p>
+
+
 <!--
 **brianfs12/brianfs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
