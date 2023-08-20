@@ -1,12 +1,12 @@
 ### Hey everyone! I'm Brian Flores 👋
 
-- 🔭 I’m currently working on **my own gamified slideshow** on unity.
+- 🔭 I’m currently working on: **My own gamified slideshow** on unity.
   
-- 🌱 I’m currently learning ShaderLab.
+- 🌱 I’m currently learning: ShaderLab.
 
-- 💬 Ask me about Game design, im always available to taltk about it.
+- 💬 Ask me about **Game design**, im always available to taltk about it.
 
-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/brianfs12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianfs12" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brian-flores-sanchez-5b35b11a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-flores-sanchez-5b35b11a1" height="30" width="40" /></a>
