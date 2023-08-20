@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Game design**, im always available to taltk about it.
 
-<h3 align="left">Lets Connect:</h3>
+<h3 align="left"> Let's connect!:</h3>
 <p align="left">
 <a href="https://twitter.com/brianfs12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianfs12" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brian-flores-sanchez-5b35b11a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-flores-sanchez-5b35b11a1" height="30" width="40" /></a>
