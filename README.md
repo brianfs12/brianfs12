@@ -32,8 +32,8 @@
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <!-- Unreal -->
-  <a> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" unselectable="on" alt="unreal" width="40" height="40"/> </a> </p>
-
+  **<a> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" unselectable="on" alt="unreal" width="40" height="40"/> </a> </p>
+**
 <!-- Most used... -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianfs12&show_icons=true&locale=en&layout=compact" alt="brianfs12" /></p>
 
